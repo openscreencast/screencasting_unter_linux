@@ -1,3 +1,11 @@
-# My Awesome Book
+# Screencasting unter Linux
 
-This file file serves as your book's preface, a great place to describe your book's content and ideas.
+Eine Sammlung von Artikeln und Anleitungen über Screencasting unter Linux
+
+# Status
+
+in Arbeit
+
+# Lizenz
+
+Creative Commons Zero https://creativecommons.org/publicdomain/zero/1.0/
