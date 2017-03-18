@@ -8,6 +8,14 @@ gitbook: https://openscreencast.gitbooks.io/screencasting_unter_linux/content/
 
 in Arbeit
 
+## TODO nach dem Schreiben
+
+* Rechtschreibekorrektur
+* Grammatikkorrektur
+* Prüfung auf Verständlichkeit
+* werden immer die gleichen Wörter, Abkürzungen ... verwendet
+* Fachlektorat
+
 # Lizenz
 
 Creative Commons Zero https://creativecommons.org/publicdomain/zero/1.0/
