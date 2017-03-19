@@ -19,3 +19,8 @@ in Arbeit
 # Lizenz
 
 Creative Commons Zero https://creativecommons.org/publicdomain/zero/1.0/
+
+# Cover-Bild
+
+Quelle: https://pixabay.com/de/banner-header-film-kino-video-1155437/ by [geralt](https://pixabay.com/de/users/geralt-9301/), Lizenz: [CC0 1.0](https://creativecommons.org/publicdomain/zero/1.0/deed.de)
+
