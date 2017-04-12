@@ -9,7 +9,7 @@ vom Autor und Kolumnist Jon Udell geprägt. Screencast setzt sich aus den zwei e
 Das erste Mal hörte ich den Begriff Screencasting 2006 in der Folge 107 vom [Chaosradio](https://chaosradio.ccc.de/index.html).
 In der Sendung vom 26.10.2005, die damals Holger Klein moderierte, wurde das recht neue Thema Podcasting genaustens
 beleuchtet. Tim Pritlove und Johnny Haeusler versuchten die Podcast-Welt zu entnebeln und leicht begehbare Wege 
-dorthin anzulegen. Fast am Ende (02:42:51) der Folge erläutert Tim Pritlove das Screencasting.
+dorthin anzulegen. Fast am Ende (02:42:51) der Folge erläutert Tim Pritlove das Screencasting:
 
 > "Screencasting - das heißt: der Video-Content, den man sieht, ist nichts anderes als eine aufgezeichnete Session am Rechner. Das ganze dann eben aber mit Ton. Und das wird eben benutzt für Demos, Tutorials, ich erkläre Leuten wie sie sich ihren E-Mail-Account an der Uni einrichten." [^1]
 
