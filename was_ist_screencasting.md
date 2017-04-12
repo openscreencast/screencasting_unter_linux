@@ -17,6 +17,12 @@ Jon Udell definiert in seinem Artikel ["What Is Screencasting"](http://archive.o
 
 > "A screencast is a digital movie in which the setting is partly or wholly a computer screen, and in which audio narration describes the on-screen action." [^2] 
 
+[Martin Lindner](http://pb21.de/author/mlindner/) erklärt den Begriff Screencasting im Artikel ["Lernen mit YouTube & Co Teil V - Screencasting für Anfänger"](http://pb21.de/2011/09/lernen-mit-youtube-co-teil-v-screencasting-fur-anfanger/) des Projektes [pb21.de](http://pb21.de) der [Bundeszentrale für politische Bildung (bpb)](http://www.bpb.de/) wie folgt:
+
+> "Wenn man also verkettete Bildschirmansichten („Screens“) zu einer Art fertigem Videoclip bündelt, der dann vor den Augen der NutzerInnen abläuft, fasse ich das im Folgenden unter dem Oberbegriff „Screencasting“ zusammen. Das kann eine Art Mitschnitt von dem sein, was ich gerade am Bildschirm sehe oder tue ..." [^3] 
+
 [^1]: [Chaosradio Podcast Network - Chaosradio - CR107 - Podcasting](https://chaosradio.ccc.de/cr107.html#t=2:42:51) Teilnehmer: Holger Klein (Moderation), Tim Pritlove, Johnny Haeusler
 
 [^2]: [oreilly.com - What Is Screencasting](http://archive.oreilly.com/pub/a/oreilly/digitalmedia/2005/11/16/what-is-screencasting.html) von [Jon Udell](http://jonudell.net/)
+
+[^3]: [pb21.de - Lernen mit YouTube & Co Teil V – Screencasting für Anfänger](http://pb21.de/2011/09/lernen-mit-youtube-co-teil-v-screencasting-fur-anfanger/) von [Martin Lindner](http://pb21.de/author/mlindner/), Lizenz: [CC BY 3.0](https://creativecommons.org/licenses/by/3.0/de/)
