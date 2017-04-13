@@ -1,7 +1,7 @@
 # Green Recorder
 
 ![Green Recorder](images/greenrecorder_areachooser.png)    
-***Abbildung:*** Green Recorder
+***Abbildung:*** Green Recorder mit Area Chooser
 
 Wer versucht mit dem SimpleScreenRecorder oder mit recordmydesktop unter [Wayland](https://de.wikipedia.org/wiki/Wayland_(Anzeige-Server)) Screencasts aufzunehmen, 
 der wird womöglich sein schwarzes Wunder erleben, denn in den Aufnahmen ist nichts weiter als ein schwarzer Bildschirm zu sehen.
