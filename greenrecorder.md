@@ -1,6 +1,6 @@
 # Green Recorder
 
-![Green Recorder](images/greenrecorder_und_info.png)    
+![Green Recorder](images/greenrecorder.png)    
 ***Abbildung:*** Green Recorder
 
 Wer versucht mit dem SimpleScreenRecorder oder mit recordmydesktop unter [Wayland](https://de.wikipedia.org/wiki/Wayland_(Anzeige-Server)) Screencasts aufzunehmen, 
