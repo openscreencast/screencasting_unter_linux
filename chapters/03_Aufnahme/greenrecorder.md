@@ -8,7 +8,8 @@ recordMyDesktop unter [Wayland](https://wayland.freedesktop.org/) Screencasts au
 der wird womöglich sein schwarzes Wunder erleben,
 denn in den Aufnahmen ist nichts weiter als ein schwarzer Bildschirm zu sehen.
 Der Green Recorder ist ein weiteres Tool im großen Screencasting-Repertoire, aber eines der wenigen in der Sammlung
-Screencasting unter Wayland. Was unter Wayland funtioniert ist der hauseigene Shell Recorder von Gnome, der mit der
+Screencasting unter Wayland. Was unter Wayland funtioniert ist der 
+hauseigene [Shell Recorder](gnome_shell_recorder.md) von Gnome, der mit der
 Tastenkombination Strg+Alt+Shift+R aktiviert und deaktiviert werden kann. 
 Zur Erinnerung, die Länge der Aufnahme ist eventuell standardmäßig auf 30 Sekunden begrenzt,
 kann aber mit dem dconf-editor verändert werden.
