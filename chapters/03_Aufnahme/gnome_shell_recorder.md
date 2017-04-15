@@ -25,4 +25,13 @@ Die Framerate beträgt den Wert 30, was bedeutet, dass 30 Bilder pro Sekunde ges
 
 ### Einstellungen
 
+Nach 30 Sekunden wird die Aufnahme automatisch beendet, denn jenes ist die Standard-Einstellung
+für die maximale Screencast-Länge. Diese Einstellung und die Tastenkombination für den Start der Aufnahme
+können geändert werden. Hier kommt das Einstellungstool dconf-editor ins Spiel. 
+Dconf-editor gehört nicht zum Standard und muss nachinstalliert werden.
+Bei der Linuxdistribution Fedora leitet man dies mit dem Befehl `su -c "dnf install dconf-editor"`
+oder dem Paketmanager seiner Wahl in die Wege.
+
+![dconf-editor - Installation](../../images/dconf-editor_fedora_install.png)    
+***Abbildung:*** dconf-editor - Installation - Fedora
 
