@@ -38,7 +38,7 @@ oder dem Paketmanager seiner Wahl in die Wege.
 Der Editor für das dconf-Konfigurationssystem von Gnome3, welches das GConf-System ersetzt hat, 
 ist in der Programmauswahl unter Verschiedenes angesiedelt und kann dort gestartet werden.
 Ebenso kann die Einstellungsapp per Befehl `dconf-editor` in einem Terminal aufgerufen werden.
-Hinter dem Schema org.gnome.settings-daemon.plugins.media-keys mit dem Schlüssel max-screencast-length verbirgt sich
+Hinter dem Schema `org.gnome.settings-daemon.plugins.media-keys` mit dem Schlüssel `max-screencast-length` verbirgt sich
 die Einstellung für die maximale Dauer der Screencast-Aufnahme, mit der Voreinstellung 30. 
 Hier können Sie nun einen eigenen Wert bestimmen.
 
@@ -46,26 +46,37 @@ Hier können Sie nun einen eigenen Wert bestimmen.
 ***Abbildung:*** dconf-editor - maximale Screencast-Länge
 
 Die Tastenkombination `Strg+Alt+Shift+R` für den Gnome Shell Recorder ist unter 
-org.gnome.settings-daemon.plugins.media-keys.screencast zugänglich.
+`org.gnome.settings-daemon.plugins.media-keys screencast` zugänglich.
 Wenn Sie eine neue Tastenkomination einstellen möchten, bitte vergessen Sie nicht vorher gründlich zu recherchieren,
 ob Ihre Wahl schon irgendwo im Einsatz ist.
 
 ![dconf-editor - Screencast-Tastenkombination](../../images/dconf-editor_screencast.png)    
 ***Abbildung:*** dconf-editor - Screencast-Tastenkombination
 
-Möchte man die Modifikation per Kommando bewerkstelligen, so sei an dieser Stelle der Befehl gsettings erwähnt.
+Möchte Sie die Modifikation per Kommando bewerkstelligen, so sei an dieser Stelle der Befehl gsettings erwähnt.
 Folgende Eingaben sind denkbar um die gesetzten Werte abzurufen.
 
 ```
 # gsettings get SCHEMA SCHLÜSSEL
-
-# maximale Screencast-Länge
+#
+# den Wert für die maximale Screencast-Länge abfragen
 gsettings get org.gnome.settings-daemon.plugins.media-keys max-screencast-length
 # Ausgabe: uint32 30
-
-# Tastenkombination für den Gnome Shell Recorder
+#
+# die Tastenkombination für den Gnome Shell Recorder einsehen
 gsettings get org.gnome.settings-daemon.plugins.media-keys screencast
 # Ausgabe: '<Ctrl><Shift><Alt>R'
 ```
 
+Im Gegensatz zu get, das die Werte einzelner Schlüssel ausliest, können mit set die Werte abgeändert werden.
 
+```
+# gsettings set SCHEMA SCHLÜSSEL WERT
+#
+# den Wert für die maximale Screencast-Länge ändern
+gsettings set org.gnome.settings-daemon.plugins.media-keys max-screencast-length 1024
+# neue maximale Screencast-Länge: 1024 Sekunden
+#
+# die Tastenkombination für den Gnome Shell Recorder ändern
+gsettings set org.gnome.settings-daemon.plugins.media-keys screencast '<Ctrl><Shift><Alt>R'
+```
