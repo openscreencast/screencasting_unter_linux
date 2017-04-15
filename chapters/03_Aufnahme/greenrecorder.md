@@ -1,6 +1,6 @@
 ## Green Recorder
 
-![Green Recorder](images/greenrecorder_areachooser.png)    
+![Green Recorder](../../images/greenrecorder_areachooser.png)    
 ***Abbildung:*** Green Recorder mit Area Chooser
 
 Wer versucht mit dem SimpleScreenRecorder oder mit recordmydesktop unter [Wayland](https://wayland.freedesktop.org/) Screencasts aufzunehmen, 
@@ -33,7 +33,7 @@ Wo, in welchem Format und was aufgenommen wird kann ohne Umwege eingestellt werd
 Den Startschuss für die Aufnahme können Sie über den Button Aufnahme/Record, oben links im Fenster, geben.
 Beendet ist die Aufnahme wenn Sie in der Taskleiste auf das Icon des Green Recorders klicken und anschließend auf "Stop Recording".
 
-![Green Recorder - Stop Recording](images/greenrecorder_stoprecording.png)    
+![Green Recorder - Stop Recording](../../images/greenrecorder_stoprecording.png)    
 ***Abbildung:*** Green Recorder - Aufnahme stoppen
 
 Genutzt werden python, Gtk+3 und ffmpeg. Momentan werden die Formate mkv, avi, mp4, wmv und nut unterstützt.
