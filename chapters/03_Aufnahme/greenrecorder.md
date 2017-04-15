@@ -8,13 +8,16 @@ recordMyDesktop unter [Wayland](https://wayland.freedesktop.org/) Screencasts au
 der wird womöglich sein schwarzes Wunder erleben,
 denn in den Aufnahmen ist nichts weiter als ein schwarzer Bildschirm zu sehen.
 Der Green Recorder ist ein weiteres Tool im großen Screencasting-Repertoire, aber eines der wenigen in der Sammlung
-Screencasting unter Wayland. Was unter Wayland funtioniert ist der hauseigene Shell-Recorder von Gnome, der mit der
+Screencasting unter Wayland. Was unter Wayland funtioniert ist der hauseigene Shell Recorder von Gnome, der mit der
 Tastenkombination Strg+Alt+Shift+R aktiviert und deaktiviert werden kann. 
 Zur Erinnerung, die Länge der Aufnahme ist eventuell standardmäßig auf 30 Sekunden begrenzt,
 kann aber mit dem dconf-editor verändert werden.
 Der Green Recorder funktioniert ebenfalls unter Wayland 
 und ist bei [github](https://github.com/green-project/green-recorder) zu finden. 
-Die Installationshinweise für Ubuntu, Linux Mint, Fedora und Arch Linux stehen im git-Repository zur Verfügung.
+Die Installationshinweise für [Ubuntu](https://de.wikipedia.org/wiki/Ubuntu),
+[Linux Mint](https://de.wikipedia.org/wiki/Linux_Mint), Fedora
+und [Arch Linux](https://de.wikipedia.org/wiki/Arch_Linux) stehen
+im [git](https://de.wikipedia.org/wiki/Git)-Repository zur Verfügung.
 
 ### Installation
 
@@ -39,5 +42,9 @@ Beendet ist die Aufnahme wenn Sie in der Taskleiste auf das Icon des Green Recor
 ![Green Recorder - Stop Recording](../../images/greenrecorder_stoprecording.png)    
 ***Abbildung:*** Green Recorder - Aufnahme stoppen
 
-Genutzt werden python, Gtk+3 und ffmpeg. Momentan werden die Formate mkv, avi, mp4, wmv und nut unterstützt.
-Für Wayland wird nur das Format webm supportet. Der V8-Encoder wird für die Aufnahmen eingesetzt.
+Genutzt werden python, [Gtk+3](https://de.wikipedia.org/wiki/GTK%2B) und [ffmpeg](https://de.wikipedia.org/wiki/FFmpeg). 
+Momentan werden die Formate [mkv](https://de.wikipedia.org/wiki/Matroska),
+[avi](https://de.wikipedia.org/wiki/Audio_Video_Interleave), [mp4](https://de.wikipedia.org/wiki/MP4),
+[wmv](https://de.wikipedia.org/wiki/Windows_Media_Video) und nut unterstützt.
+Für Wayland wird nur das Format [webm](https://de.wikipedia.org/wiki/WebM) supportet.
+Der [VP8](https://de.wikipedia.org/wiki/VP8)-Encoder wird für die Aufnahmen eingesetzt.
