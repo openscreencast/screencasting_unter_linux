@@ -1,2 +1,2 @@
-## EasyScreencast
+## EasyScreenCast
 

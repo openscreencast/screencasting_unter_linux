@@ -17,10 +17,10 @@ Die Aufnahme wird durch einen kleinen roten Kreis, rechts in der Taskleiste, sig
 ![Gnome Shell Recorder](../../images/gnome_shell_recorder.png)    
 ***Abbildung:*** Gnome Shell Recorder - Aufnahme
 
-Die festgehaltenen Bilder werden in eine .webm-Datei geschrieben. 
+Die festgehaltenen Bilder werden in eine [.webm](https://de.wikipedia.org/wiki/WebM)-Datei geschrieben. 
 Die Datei mit dem Muster "Bildschirmvideo von [Datum] [Uhrzeit].webm"
 (Beispiel: "Bildschirmvideo von 15.04.2017 16:03:30.webm") befindet sich im Home-Verzeichnis,
-im Unterordner Videos, und enthält den VP9-Videocodec. 
+im Unterordner Videos, und enthält den [VP9](https://de.wikipedia.org/wiki/VP9)-Videocodec. 
 Die Framerate beträgt den Wert 30, was bedeutet, dass 30 Bilder pro Sekunde gespeichert werden.
 
 ### Einstellungen
@@ -35,7 +35,8 @@ oder dem Paketmanager seiner Wahl in die Wege.
 ![dconf-editor - Installation](../../images/dconf-editor_fedora_install.png)    
 ***Abbildung:*** dconf-editor - Installation - Fedora
 
-Der Editor für das dconf-Konfigurationssystem von Gnome3, welches das GConf-System ersetzt hat, 
+Der Editor für das [dconf](https://en.wikipedia.org/wiki/Dconf)-Konfigurationssystem von Gnome3,
+welches das [GConf](https://de.wikipedia.org/wiki/GConf)-System ersetzt hat, 
 ist in der Programmauswahl unter Verschiedenes angesiedelt und kann dort gestartet werden.
 Ebenso kann die Einstellungsapp per Befehl `dconf-editor` in einem Terminal aufgerufen werden.
 Hinter dem Schema `org.gnome.settings-daemon.plugins.media-keys` mit dem Schlüssel `max-screencast-length` verbirgt sich

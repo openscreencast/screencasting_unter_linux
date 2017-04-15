@@ -10,7 +10,7 @@
         * [recordMyDesktop](chapters/03_Aufnahme/recordmydesktop.md)
         * [SimpleScreenRecorder](chapters/03_Aufnahme/simplescreenrecorder.md)
         * [Gnome Shell Recorder](chapters/03_Aufnahme/gnome_shell_recorder.md)
-        * [EasyScreencast](chapters/03_Aufnahme/easyscreencast.md)
+        * [EasyScreenCast](chapters/03_Aufnahme/easyscreencast.md)
         * [Green Recorder](chapters/03_Aufnahme/greenrecorder.md)
         * [Peek](chapters/03_Aufnahme/peek.md)
 * Nach der Aufnahme

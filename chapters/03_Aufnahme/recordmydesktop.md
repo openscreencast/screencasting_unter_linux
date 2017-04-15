@@ -1,1 +1,1 @@
-## RecordMyDesktop
+## recordMyDesktop
