@@ -2,7 +2,8 @@
 
 ![Screencasting-Tools - 6 Beispiele](../../images/screencasting-tools.png) ***Abbildung:*** Screencasting-Tools: SimpleScreenRecorder, Peek, vokoscreen, recordMyDesktop, Green Recorder, Kazam (von links oben nach rechts unten) 
 
-Konnte man 2006 die Screencasting-Tools für Linux noch an einer Hand abzählen, so hat man heute eher die Qual der Wahl. 
+Konnte man 2006, als ich angefangen habe Videotutorials zu erstellen,
+die Screencasting-Tools für Linux noch an einer Hand abzählen, so hat man heute eher die Qual der Wahl. 
 Das Repertoire der Screencasting-Tools ist inzwischen erstaunlich vielfältig. 
 Selbst heute wächst die lange Liste der Screencasting-Programme, es kommen ständig neue Tools hinzu. 
 Jeder kann sich das Programm herauspicken und einsetzen, das seinen Ansprüchen genügt. 
