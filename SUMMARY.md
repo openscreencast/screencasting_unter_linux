@@ -30,3 +30,4 @@
 
 * Anhang
     * [Links](chapters/05_Anhang/links.md)
+    * [Glossary](GLOSSARY.md)
