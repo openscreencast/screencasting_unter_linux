@@ -61,15 +61,15 @@ Sofern das Optimierungswerkzeug nicht zum Standard Ihrer Linux-Distribution geh�
 mit dem Paketmanager des Betriebssystems nachinstalliert werden. Unter Fedora wird die Installation
 mit dem dnf-Kommando `su -c "dnf install gnome-tweak-tool"` durchgeführt. Bei Ubuntu oder Linux Mint
 ist der Befehl `sudo apt-get install gnome-tweak-tool` denkbar.
-Das Gnome-Optimierungswerkzeug wird mit dem Kommando gnome-tweak-tool aufgerufen,
-kann aber auch bei den Hilfsprogrammen durch einen Klick auf das Programme-Icon gestartet werden.
+Das Gnome-Optimierungswerkzeug wird mit dem Kommando `gnome-tweak-tool` aufgerufen,
+kann aber auch bei den Hilfsprogrammen durch einen Klick auf das Programm-Icon gestartet werden.
 In der Rubrik Erweiterungen können die Gnome Shell-Erweiterungen
 installiert, aktiviert, deaktiviert, konfiguriert und entfernt werden. 
 
 ![Gnome Tweak Tool - Erweiterungen](../../images/gnome-tweak-tool_erweiterungen.png)    
 ***Abbildung:*** Gnome Tweak Tool - Erweiterungen
 
-Eine andere Variante für die Installation von EasyScreenCast
+Eine andere Variante für die Installation 
 ist auf der [github-Seite](https://github.com/EasyScreenCast/EasyScreenCast) von EasyScreenCast einsehbar.
 Dieser Installationsweg ist natürlich auch für alle anderen Gnome Shell-Erweiterungen machbar.
 Das git-Repository des Projektes wird geklont und anschließend
