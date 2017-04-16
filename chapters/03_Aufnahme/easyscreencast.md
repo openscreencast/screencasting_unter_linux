@@ -30,7 +30,20 @@ Unter Ubuntu und Linux Mint ist das Paket
 für den [Native Host-Connector](https://wiki.gnome.org/Projects/GnomeShellIntegrationForChrome/Installation)
 in den Universe Repositories vorhanden und kann mittels `sudo apt-get install chrome-gnome-shell` installiert werden.
 
+![EasyScreenCast - Webseite](../../images/easyscreencast_webseite.png)    
+***Abbildung:*** EasyScreenCast - Webseite
 
+Daraufhin können Sie die Gnome Shell-Erweiterung [EasyScreenCast](https://extensions.gnome.org/extension/690/easyscreencast/)
+auf der Webseite https://extensions.gnome.org/ auswählen. 
+Bewertungen, Kommentare, eine kurze Beschreibung und ein
+Link zu dem [git-Repository](https://github.com/EasyScreenCast/EasyScreenCast) des Projektes befinden sich
+auf der Detailseite von EasyScreenCast.
+Für die Inbetriebnahme der funktionsreichen Screencast-Erweiterung müssen Sie auf den Kippschalter (On/Off) klicken
+und anschließend die Frage: "EasyScreenCast" von extensions.gnome.org herunterladen und installieren ? mit Installieren
+beantworten.
+
+![EasyScreenCast - Installation](../../images/easyscreencast_install.png)    
+***Abbildung:*** EasyScreenCast - Installation
 
 
 #### Einstellungen {#easyscreencast_einstellungen}
