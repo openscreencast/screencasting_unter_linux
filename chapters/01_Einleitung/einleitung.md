@@ -1,4 +1,4 @@
-# Einleitung
+## Einleitung
 
 > "Ein Bild sagt mehr als Tausend Worte, das Sprichwort dürfte wohl jeder kennen. Aber was sagt denn dann ein Video aus? Tausend Worte im Quadrat?" [^1]
 

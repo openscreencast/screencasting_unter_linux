@@ -1,4 +1,4 @@
-# Was ist Screencasting ?
+## Was ist Screencasting ?
 
 Am Anfang stellt sich natürlich die Frage: Was ist Screencasting überhaupt ? 
 Screencasting ist, ganz schlicht und einfach formuliert, das Abfilmen von Bildschirmaktivitäten. 

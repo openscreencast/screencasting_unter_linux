@@ -1,4 +1,4 @@
-## Gnome Shell Recorder {#gnome_shell_recorder}
+### Gnome Shell Recorder {#gnome_shell_recorder}
 
 Seit jeher gehört die Screenshot-Funktionalität (Bildschirmfotos erstellen) zur Grundausstattung von Gnome.
 Mit Gnome3 hielt ein weiteres Feature, die Screencast-Funktion (Bildschirmvideoaufnahme),
@@ -9,7 +9,7 @@ denn der Gnome Shell Recorder nimmt nur den ganzen Bildschirm auf, und das ohne 
 Möchten Sie ohne Nachbearbeitung lediglich einen Teil des Bildschirms mit Audio aufzeichnen, 
 ist die Installation einer Anwendung, die über ein weitgefächertes Spektrum an Leistungsmerkmalen verfügt, unumgänglich. 
 
-### Anwendung {#gnome_shell_recorder_anwendung}
+#### Anwendung {#gnome_shell_recorder_anwendung}
 
 Mittels Tastenkombination `Strg+Alt+Shift+R` können Sie die Bildschirmaufnahme starten und beenden.
 Die Aufnahme wird durch einen kleinen roten Kreis, rechts in der Taskleiste, signalisiert.
@@ -23,7 +23,7 @@ Die Datei mit dem Muster "Bildschirmvideo von [Datum] [Uhrzeit].webm"
 im Unterordner Videos, und enthält den [VP9](https://de.wikipedia.org/wiki/VP9)-Videocodec. 
 Die Framerate beträgt den Wert 30, was bedeutet, dass 30 Bilder pro Sekunde gespeichert werden.
 
-### Einstellungen {#gnome_shell_recorder_einstellungen}
+#### Einstellungen {#gnome_shell_recorder_einstellungen}
 
 Nach 30 Sekunden wird die Aufnahme automatisch beendet, denn jenes ist die Standard-Einstellung
 für die maximale Screencast-Länge. Diese Einstellung und die Tastenkombination für den Start der Aufnahme

@@ -1,1 +1,1 @@
-## SimpleScreenRecorder
+### SimpleScreenRecorder

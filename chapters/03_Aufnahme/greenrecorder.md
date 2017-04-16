@@ -1,4 +1,4 @@
-## Green Recorder
+### Green Recorder
 
 ![Green Recorder](../../images/greenrecorder_areachooser.png)    
 ***Abbildung:*** Green Recorder mit Area Chooser
@@ -12,7 +12,7 @@ Screencasting unter Wayland. Was unter Wayland funtioniert ist der
 hauseigene [Shell Recorder](gnome_shell_recorder.md) von Gnome, der mit der
 Tastenkombination Strg+Alt+Shift+R aktiviert und deaktiviert werden kann. 
 Zur Erinnerung, die Länge der Aufnahme ist eventuell standardmäßig auf 30 Sekunden begrenzt,
-kann aber mit dem [dconf-editor](gnome_shell_recorder.md#gnome_shell_recorder_einstellungen) verändert werden.
+kann aber mit dem [dconf-editor](gnome_shell_recorder.md#gnome_shell_recorder_einstellungen) nach oben geschraubt werden.
 Der Green Recorder funktioniert ebenfalls unter Wayland 
 und ist bei [github](https://github.com/green-project/green-recorder) zu finden. 
 Die Installationshinweise für [Ubuntu](https://de.wikipedia.org/wiki/Ubuntu),
@@ -20,7 +20,7 @@ Die Installationshinweise für [Ubuntu](https://de.wikipedia.org/wiki/Ubuntu),
 und [Arch Linux](https://de.wikipedia.org/wiki/Arch_Linux) stehen
 im [git](https://de.wikipedia.org/wiki/Git)-Repository zur Verfügung.
 
-### Installation
+#### Installation
 
 Unter Ubuntu und Linux Mint fügen Sie zuerst das dazugehörige PPA für den Green Recorder hinzu.
 Nach dem Update können Sie den Green Recorder installieren. Folgende Kommandos werden für die Installation benötigt:
@@ -31,7 +31,7 @@ sudo apt-get update
 sudo apt-get install green-recorder
 ```
 
-### Anwendung
+#### Anwendung
 
 Der Green Recorder ist fortan Teil der Multimedia-Sektion im Menü. 
 Das Programm kann über das Menü oder mittels Kommando `green-recorder` gestartet werden. 
