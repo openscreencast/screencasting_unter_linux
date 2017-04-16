@@ -45,5 +45,42 @@ beantworten.
 ![EasyScreenCast - Installation](../../images/easyscreencast_install.png)    
 ***Abbildung:*** EasyScreenCast - Installation
 
+Das Verzeichnis von EasyScreenCast, mit allen dazugehörigen Dateien, befindet sich nach der Installation
+im lokalen Ordner für die Gnome Shell-Erweiterungen. Der Ordner für die Extensions ist im Home-Verzeichnis
+und heißt `~/.local/share/gnome-shell/extensions/`. 
+Alle Erweiterungen der Gnome Shell können auf der Seite https://extensions.gnome.org/ unter
+["Installed extensions"](https://extensions.gnome.org/local/)
+aktiviert, deaktiviert, aktualisiert, konfiguriert und gelöscht werden. 
+
+![EasyScreenCast - Installed Extensions](../../images/easyscreencast_webseite_installed_extensions.png)    
+***Abbildung:*** EasyScreenCast - Installed Extensions
+
+Die Erweiterungen können ebenso mit
+dem [Gnome-Optimierungswerkzeug gnome-tweak-tool](https://wiki.ubuntuusers.de/GNOME_Tweak_Tool/) verwaltet werden.
+Sofern das Optimierungswerkzeug nicht zum Standard Ihrer Linux-Distribution gehört, kann das Paket
+mit dem Paketmanager des Betriebssystems nachinstalliert werden. Unter Fedora wird die Installation
+mit dem dnf-Kommando `su -c "dnf install gnome-tweak-tool"` durchgeführt. Bei Ubuntu oder Linux Mint
+ist der Befehl `sudo apt-get install gnome-tweak-tool` denkbar.
+Das Gnome-Optimierungswerkzeug wird mit dem Kommando gnome-tweak-tool aufgerufen,
+kann aber auch bei den Hilfsprogrammen durch einen Klick auf das Programme-Icon gestartet werden.
+In der Rubrik Erweiterungen können die Gnome Shell-Erweiterungen
+installiert, aktiviert, deaktiviert, konfiguriert und entfernt werden. 
+
+![Gnome Tweak Tool - Erweiterungen](../../images/gnome-tweak-tool_erweiterungen.png)    
+***Abbildung:*** Gnome Tweak Tool - Erweiterungen
+
+Eine andere Variante für die Installation von EasyScreenCast
+ist auf der [github-Seite](https://github.com/EasyScreenCast/EasyScreenCast) von EasyScreenCast einsehbar.
+Dieser Installationsweg ist natürlich auch für alle anderen Gnome Shell-Erweiterungen machbar.
+Das git-Repository des Projektes wird geklont und anschließend
+ins Verzeichnis ~/.local/share/gnome-shell/extensions/ verschoben. 
+Für EasyScreenCast wären das folgende Schritte:
+
+```
+git clone https://github.com/EasyScreenCast/EasyScreenCast
+mv EasyScreenCast ~/.local/share/gnome-shell/extensions/EasyScreenCast@iacopodeenosee.gmail.com
+```
 
 #### Einstellungen {#easyscreencast_einstellungen}
+
+
