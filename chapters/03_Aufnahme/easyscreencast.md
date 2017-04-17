@@ -117,6 +117,11 @@ eines Schemas durch einen Schrägstrich (Slash - /) getrennt, wie in einem Datei
 An Stelle von get und set bestehen die Kommandos read und write.
 Mit dem Befehl `dconf list /org/gnome/shell/extensions/EasyScreenCast/` 
 werden alle Schlüssel von EasyScreenCast aufgelistet.
+Der Wert eines Schlüssels kann durch die Anweisung `dconf read /org/gnome/shell/extensions/EasyScreenCast/<Schlüssel>`
+ausgelesen werden. Ein Eingabe `dconf write /org/gnome/shell/extensions/EasyScreenCast/<Schlüssel> <Wert>`
+ändert den Inhalt eines Schlüssels ab. 
 
+![EasyScreenCast - dconf](../../images/easyscreencast_dconf.png)    
+***Abbildung:*** EasyScreenCast - dconf - Beispiel: Schlüssel fps
 
 #### Anwendung {#easyscreencast_anwendung}
