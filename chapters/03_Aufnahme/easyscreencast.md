@@ -106,8 +106,16 @@ und dem Kommando dconf modifiziert werden.
 ![EasyScreenCast - dconf-editor](../../images/easyscreencast_dconf-editor.png)    
 ***Abbildung:*** EasyScreenCast - dconf-editor
 
-| Weil das Schema ein nicht ortsgebundenes Schema ist und sich nicht im Ordner `/usr/share/glib-2.0/schemas/` befindet, bezieht gsettings dieses Schema nicht mit ein, und die Schlüssel können nicht gelesen oder verändert werden. Das Dconf-Schema von EasyScreenCast wird im lokalen Ordner `~/.local/share/gnome-shell/extensions/EasyScreenCast@iacopodeenosee.gmail.com/schemas` aufbewahrt. |
- 
+<style>
+    #anmerkung { background: #fffacd; }
+</style>
+
+<p id="anmerkung">
+<b>Anmerkung<b>
+
+Weil das Schema ein nicht ortsgebundenes Schema ist und sich nicht im Ordner `/usr/share/glib-2.0/schemas/` befindet, bezieht gsettings dieses Schema nicht mit ein, und die Schlüssel können nicht gelesen oder verändert werden. Das Dconf-Schema von EasyScreenCast wird im lokalen Ordner `~/.local/share/gnome-shell/extensions/EasyScreenCast@iacopodeenosee.gmail.com/schemas` aufbewahrt.
+</p> 
+
 Dconf ist ein einfaches Kommandozeilenprogramm
 für das [Dconf-Konfigurationssystem](https://wiki.ubuntuusers.de/GNOME_Konfiguration/dconf/) von Gnome.
 Die Verfahrensweise ist ungleich der von gsettings. Statt durch Punkte, werden die einzelnen Punkte
