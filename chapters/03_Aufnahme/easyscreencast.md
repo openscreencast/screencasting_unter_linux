@@ -106,6 +106,8 @@ und dem Kommando dconf modifiziert werden.
 ![EasyScreenCast - dconf-editor](../../images/easyscreencast_dconf-editor.png)    
 ***Abbildung:*** EasyScreenCast - dconf-editor
 
+##### Einstellungen in der Kommandozeile {#easyscreencast_einstellungen_dconf}
+
 <style>
     .anmerkung { background: #FFFACD; padding-top: 10px; padding-bottom: 10px; padding-right: 20px; padding-left: 20px;}
 </style>
@@ -130,6 +132,13 @@ ausgelesen werden. Die Eingabe `dconf write /org/gnome/shell/extensions/EasyScre
 ![EasyScreenCast - dconf](../../images/easyscreencast_dconf.png)    
 ***Abbildung:*** EasyScreenCast - dconf - Beispiel: Schlüssel fps
 
+##### Einstellungen - Erscheinungsbild {#easyscreencast_einstellungen_erscheinungsbild}
 
+Die Funktionen einer Gnome Shell-Erweiterung werden
+mit der Programmiersprache [Javascript](https://de.wikipedia.org/wiki/JavaScript) geschrieben.
+Das Erscheinungsbild basiert auf den [CSS](https://de.wikipedia.org/wiki/Cascading_Style_Sheets)-Deklarationen. 
+Der Look der EasyScreenCast-Erweiterung steht in der Textdatei
+`~/.local/share/gnome-shell/extensions/EasyScreenCast@iacopodeenosee.gmail.com/stylesheet.css`.
+CSS-Kenntnisse versetzen Sie in die Lage das Äußere von EasyScreenCast nach Ihren Vorstellungen zu überarbeiten.
 
 #### Anwendung {#easyscreencast_anwendung}
