@@ -111,7 +111,10 @@ und dem Kommando dconf modifiziert werden.
 | Weil das Schema ein nicht ortsgebundenes Schema ist und sich nicht im Ordner `/usr/share/glib-2.0/schemas/` befindet, bezieht gsettings dieses Schema nicht mit ein, und die Schlüssel können nicht verändert werden. Das Dconf-Schema von EasyScreenCast wird im lokalen Ordner `~/.local/share/gnome-shell/extensions/EasyScreenCast@iacopodeenosee.gmail.com/schemas` aufbewahrt. |
  
 Dconf ist ein einfaches Kommandozeilenprogramm
-für das [Dconf-Konfigurationssystem](https://wiki.ubuntuusers.de/GNOME_Konfiguration/dconf/) von GNOME.
+für das [Dconf-Konfigurationssystem](https://wiki.ubuntuusers.de/GNOME_Konfiguration/dconf/) von Gnome.
+Die Verfahrensweise ist ungleich der von gsettings. Statt durch Punkte, werden die einzelnen Punkte
+eines Schemas durch einen Schrägstrich (Slash - /) getrennt, wie in einem Dateisystem. 
+An Stelle von get und set bestehen die Kommandos read und write.
 Mit dem Befehl `dconf list /org/gnome/shell/extensions/EasyScreenCast/` 
 werden alle Schlüssel von EasyScreenCast aufgelistet.
 
