@@ -156,4 +156,13 @@ In vier Menüpunkten (siehe Abbildung: EasyScreenCast) kann die Aufnahmeschablon
 * Aufnahmebereich (ganzer Bildschirm, ausgewähltes Fenster, ausgewählter Bereich)
 * Aufnahmeverzögerung
 
+Letztendlich können Sie die Aufnahme in Gang setzen, indem Sie ganz oben den Button `Starte Aufnahme` betätigen.
+Sie werden benachrichtigt, dass die Aufnahme gestartet wurde. Das Kamera-Icon wird rot.
+Klicken Sie an der gleichen Stelle auf `Aufnahme beenden`, um das Festhalten der Bildschirmaktivitäten einzustellen.
+Des Weiteren ist es realisierbar die Aufnahme durch nur einen Klick
+mit der rechten Maustaste auf das Kamera-Icon zu starten und zu beenden.
+Die Screencast-Videodatei (Beispiel: `~/Videos/Screencast_17.04.2017_12:03:56.webm`)
+ist im voreingestellten Zielordner (Standard: `~/Videos/`)
+mit dem ausgewählten Dateimuster (Standard: `Screencast_%d_%t.webm`) zu finden. 
 
+  
