@@ -171,6 +171,12 @@ In vier Menüpunkten (siehe Abbildung: EasyScreenCast) kann die Aufnahmeschablon
 * Aufnahmebereich (ganzer Bildschirm, ausgewähltes Fenster, ausgewählter Bereich)
 * Aufnahmeverzögerung
 
+![EasyScreenCast - Aufnahme](../../images/easyscreencast_aufnahme.png)    
+***Abbildung:*** EasyScreenCast - Aufnahme
+
+![EasyScreenCast - Aufnahme - Benachrichtigung](../../images/easyscreencast_aufnahme_nachricht.png)    
+***Abbildung:*** EasyScreenCast - Aufnahme - Benachrichtigung
+
 Letztendlich können Sie die Aufnahme in Gang setzen, indem Sie ganz oben den Button `Starte Aufnahme` betätigen.
 Sie werden benachrichtigt, dass die Aufnahme gestartet wurde. Das Kamera-Icon wird rot.
 Klicken Sie an der gleichen Stelle auf `Aufnahme beenden`, um das Festhalten der Bildschirmaktivitäten einzustellen.
