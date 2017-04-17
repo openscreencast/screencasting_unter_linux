@@ -94,9 +94,14 @@ Im gnome-tweak-tool, in der Rubrik Erweiterungen, können Sie das Zahnrad von Ea
 das die Einstellungen symbolisiert, verwenden. Der blaue, quadratische Button mit den Werkzeugen
 (rechts neben dem Kippschalter On/Off) ist der Zugang
 zu den Einstellungen über die Seite https://extensions.gnome.org/local/.
+
+![EasyScreenCast - gnome-shell-extension-prefs](../../images/easyscreencast_gnome-shell-extension-prefs.png)    
+***Abbildung:*** EasyScreenCast - gnome-shell-extension-prefs
+
 Durch den Befehl `gnome-shell-extension-prefs` in der Kommandozeile
-öffnet sich eine schlichte Erweiterungsübersicht. Auch hier verkörpert das Zahnradsymbol
-(links neben dem An/Aus-Schalter) die Einstellungen.
+öffnet sich eine schlichte Erweiterungsübersicht. Alle Gnome Shell-Erweiterungen
+werden in alphabetischer Reihenfolge untereinander aufgezählt, mitten unter ihnen auch EasyScreenCast.
+Auch hier verkörpert das Zahnradsymbol (links neben dem An/Aus-Schalter) die Einstellungen.
 Allerdings kann das Einstellungsfenster von EasyScreenCast auch direkt mit dem Kommando
 
 ```
