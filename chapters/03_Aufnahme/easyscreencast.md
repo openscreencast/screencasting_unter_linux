@@ -107,11 +107,11 @@ und dem Kommando dconf modifiziert werden.
 ***Abbildung:*** EasyScreenCast - dconf-editor
 
 <style>
-    .anmerkung { background: #FFEFD5; padding: 5px;}
+    .anmerkung { background: #FFFACD; padding-top: 5px; padding-bottom: 5px; padding-right: 15px; padding-left: 15px;}
 </style>
 
 <p class="anmerkung">
-<b>Anmerkung:</b><br /><br />
+<b>Anmerkung:</b><br />
 
 Weil das Schema ein nicht ortsgebundenes Schema ist und sich nicht im Ordner <b>/usr/share/glib-2.0/schemas/</b> befindet, bezieht gsettings dieses Schema nicht mit ein, und die Schlüssel können nicht gelesen oder verändert werden. Das Dconf-Schema von EasyScreenCast wird im lokalen Ordner <b>~/.local/share/gnome-shell/extensions/EasyScreenCast@iacopodeenosee.gmail.com/schemas/</b> aufbewahrt.
 </p> 
