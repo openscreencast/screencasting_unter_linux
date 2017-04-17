@@ -12,6 +12,8 @@ verwaltet die Aufnahmen von EasyScreenCast und dem Gnome Shell Recorder.
 
 #### Installation {#easyscreencast_installation}
 
+##### Installation mit dem Webbrowser {#easyscreencast_installation_webbrowser}
+
 Möchten Sie den Funktionsrahmen von Gnome durch eine Gnome Shell-Erweiterung aufstocken,
 werden Sie vermutlich auf der Webseite https://extensions.gnome.org/ fündig.
 Durch die Erweiterung [GNOME Shell-Integration](https://addons.mozilla.org/de/firefox/addon/gnome-shell-integration/)
@@ -68,6 +70,8 @@ installiert, aktiviert, deaktiviert, konfiguriert und entfernt werden.
 
 ![Gnome Tweak Tool - Erweiterungen](../../images/gnome-tweak-tool_erweiterungen.png)    
 ***Abbildung:*** Gnome Tweak Tool - Erweiterungen
+
+##### Installation in der Kommandozeile {#easyscreencast_installation_kommandozeile}
 
 Eine andere Variante für die Installation 
 ist auf der [github-Seite](https://github.com/EasyScreenCast/EasyScreenCast) von EasyScreenCast einsehbar.
@@ -136,9 +140,20 @@ ausgelesen werden. Die Eingabe `dconf write /org/gnome/shell/extensions/EasyScre
 
 Die Funktionen einer Gnome Shell-Erweiterung werden
 mit der Programmiersprache [Javascript](https://de.wikipedia.org/wiki/JavaScript) geschrieben.
-Das Erscheinungsbild basiert auf den [CSS](https://de.wikipedia.org/wiki/Cascading_Style_Sheets)-Deklarationen. 
+Das Erscheinungsbild basiert auf [CSS](https://de.wikipedia.org/wiki/Cascading_Style_Sheets)-Deklarationen. 
 Der Look der EasyScreenCast-Erweiterung steht in der Textdatei
 `~/.local/share/gnome-shell/extensions/EasyScreenCast@iacopodeenosee.gmail.com/stylesheet.css`.
-CSS-Kenntnisse versetzen Sie in die Lage das Äußere von EasyScreenCast nach Ihren Vorstellungen zu überarbeiten.
+CSS-Kenntnisse versetzen Sie in die Lage das Äußere von EasyScreenCast nach
+Ihren Vorstellungen mithilfe eines [Texteditors](https://de.wikipedia.org/wiki/Liste_von_Texteditoren) zu überarbeiten.
 
 #### Anwendung {#easyscreencast_anwendung}
+
+Das Kamera-Icon in der Taskleiste repräsentiert den Zugang zu EasyScreenCast.
+In vier Menüpunkten (siehe Abbildung: EasyScreenCast) kann die Aufnahmeschablone variiert werden.
+
+* Audio-Quelle
+* Webcam-Aufzeichnung
+* Aufnahmebereich (ganzer Bildschirm, ausgewähltes Fenster, ausgewählter Bereich)
+* Aufnahmeverzögerung
+
+
