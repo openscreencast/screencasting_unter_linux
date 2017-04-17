@@ -106,9 +106,7 @@ und dem Kommando dconf modifiziert werden.
 ![EasyScreenCast - dconf-editor](../../images/easyscreencast_dconf-editor.png)    
 ***Abbildung:*** EasyScreenCast - dconf-editor
 
-| Anmerkung     |
-| ------------- |
-| Weil das Schema ein nicht ortsgebundenes Schema ist und sich nicht im Ordner `/usr/share/glib-2.0/schemas/` befindet, bezieht gsettings dieses Schema nicht mit ein, und die Schlüssel können nicht verändert werden. Das Dconf-Schema von EasyScreenCast wird im lokalen Ordner `~/.local/share/gnome-shell/extensions/EasyScreenCast@iacopodeenosee.gmail.com/schemas` aufbewahrt. |
+| Weil das Schema ein nicht ortsgebundenes Schema ist und sich nicht im Ordner `/usr/share/glib-2.0/schemas/` befindet, bezieht gsettings dieses Schema nicht mit ein, und die Schlüssel können nicht gelesen oder verändert werden. Das Dconf-Schema von EasyScreenCast wird im lokalen Ordner `~/.local/share/gnome-shell/extensions/EasyScreenCast@iacopodeenosee.gmail.com/schemas` aufbewahrt. |
  
 Dconf ist ein einfaches Kommandozeilenprogramm
 für das [Dconf-Konfigurationssystem](https://wiki.ubuntuusers.de/GNOME_Konfiguration/dconf/) von Gnome.
@@ -118,10 +116,12 @@ An Stelle von get und set bestehen die Kommandos read und write.
 Mit dem Befehl `dconf list /org/gnome/shell/extensions/EasyScreenCast/` 
 werden alle Schlüssel von EasyScreenCast aufgelistet.
 Der Wert eines Schlüssels kann durch die Anweisung `dconf read /org/gnome/shell/extensions/EasyScreenCast/<Schlüssel>`
-ausgelesen werden. Ein Eingabe `dconf write /org/gnome/shell/extensions/EasyScreenCast/<Schlüssel> <Wert>`
+ausgelesen werden. Die Eingabe `dconf write /org/gnome/shell/extensions/EasyScreenCast/<Schlüssel> <Wert>`
 ändert den Inhalt eines Schlüssels ab. 
 
 ![EasyScreenCast - dconf](../../images/easyscreencast_dconf.png)    
 ***Abbildung:*** EasyScreenCast - dconf - Beispiel: Schlüssel fps
+
+
 
 #### Anwendung {#easyscreencast_anwendung}
