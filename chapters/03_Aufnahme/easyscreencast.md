@@ -128,7 +128,7 @@ und dem Kommando dconf modifiziert werden.
 ##### Einstellungen in der Kommandozeile {#easyscreencast_einstellungen_dconf}
 
 <style>
-    .anmerkung { background: #FFFACD; padding-top: 10px; padding-bottom: 10px; padding-right: 20px; padding-left: 20px;}
+    .anmerkung { background: #F0FFF0; padding-top: 10px; padding-bottom: 10px; padding-right: 20px; padding-left: 20px;}
 </style>
 
 <p class="anmerkung">
