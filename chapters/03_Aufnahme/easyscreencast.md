@@ -83,9 +83,6 @@ mv EasyScreenCast ~/.local/share/gnome-shell/extensions/EasyScreenCast@iacopodee
 
 #### Einstellungen {#easyscreencast_einstellungen}
 
-![EasyScreenCast - Einstellungen](../../images/easyscreencast_einstellungen.png)    
-***Abbildung:*** EasyScreenCast - Einstellungen
-
 Um zu den Einstellungen zu gelangen, existieren verschiedene Pfade:
 Der schnellste Weg ist, wenn Sie auf das EasyScreenCast-Icon in der Taskleiste klicken und daraufhin auf `Options`.
 Im gnome-tweak-tool, in der Rubrik Erweiterungen, können Sie das Zahnrad von EasyScreenCast,
@@ -93,7 +90,8 @@ das die Einstellungen symbolisiert, verwenden. Der blaue, quadratische Button mi
 (rechts neben dem Kippschalter On/Off) ist der Zugang
 zu den Einstellungen über die Seite https://extensions.gnome.org/local/.
 
-
+![EasyScreenCast - Einstellungen](../../images/easyscreencast_einstellungen.png)    
+***Abbildung:*** EasyScreenCast - Einstellungen
 
 
 
