@@ -99,11 +99,21 @@ Alle haben eigentlich ziemlich selbsterklärende Elemente.
 Sobald ein Einstellungspunkt verändert wurde, wird dieser auch im dconf-editor sichtbar.
 Das [Dconf](https://en.wikipedia.org/wiki/Dconf)-Schema von EasyScreenCast
 trägt die Bezeichnung `org.gnome.shell.extensions.EasyScreenCast`.
-Die Schlüssel können mit dem grafischen Tool dconf-editor und dem Kommando gsettings modifiziert werden.
-Die gleichen [Vorgehensweisen](gnome_shell_recorder.md#gnome_shell_recorder_einstellungen),
-wie beim Gnome Shell Recorder, geleiten Sie zum gewünschten Ergebnis.
+Die Schlüssel können mit dem grafischen Tool
+[dconf-editor](gnome_shell_recorder.md#gnome_shell_recorder_einstellungen_dconf-editor)
+und dem Kommando dconf modifiziert werden.
 
 ![EasyScreenCast - dconf-editor](../../images/easyscreencast_dconf-editor.png)    
 ***Abbildung:*** EasyScreenCast - dconf-editor
+
+| Anmerkung     |
+| ------------- |
+| Weil das Schema ein nicht ortsgebundenes Schema ist und sich nicht im Ordner `/usr/share/glib-2.0/schemas/` befindet, bezieht gsettings dieses Schema nicht mit ein, und die Schlüssel können nicht verändert werden. Das Dconf-Schema von EasyScreenCast wird im lokalen Ordner `~/.local/share/gnome-shell/extensions/EasyScreenCast@iacopodeenosee.gmail.com/schemas` aufbewahrt. |
+ 
+Dconf ist ein einfaches Kommandozeilenprogramm
+für das [Dconf-Konfigurationssystem](https://wiki.ubuntuusers.de/GNOME_Konfiguration/dconf/) von GNOME.
+Mit dem Befehl `dconf list /org/gnome/shell/extensions/EasyScreenCast/` 
+werden alle Schlüssel von EasyScreenCast aufgelistet.
+
 
 #### Anwendung {#easyscreencast_anwendung}
