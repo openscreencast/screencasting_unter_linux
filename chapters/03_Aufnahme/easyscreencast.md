@@ -84,7 +84,8 @@ mv EasyScreenCast ~/.local/share/gnome-shell/extensions/EasyScreenCast@iacopodee
 #### Einstellungen {#easyscreencast_einstellungen}
 
 Um zu den Einstellungen zu gelangen, existieren verschiedene Pfade:
-Der schnellste Weg ist, wenn Sie auf das EasyScreenCast-Icon in der Taskleiste klicken und daraufhin auf `Options`.
+Der schnellste Weg ist, wenn Sie auf das EasyScreenCast-Icon
+in der Taskleiste klicken und daraufhin auf `Optionen` (siehe Abbildung: EasyScreenCast).
 Im gnome-tweak-tool, in der Rubrik Erweiterungen, können Sie das Zahnrad von EasyScreenCast,
 das die Einstellungen symbolisiert, verwenden. Der blaue, quadratische Button mit den Werkzeugen
 (rechts neben dem Kippschalter On/Off) ist der Zugang
@@ -93,6 +94,16 @@ zu den Einstellungen über die Seite https://extensions.gnome.org/local/.
 ![EasyScreenCast - Einstellungen](../../images/easyscreencast_einstellungen.png)    
 ***Abbildung:*** EasyScreenCast - Einstellungen
 
+Es gibt die vier Einstellungsabschnitte Optionen, Qualität, Webcam und Datei.
+Alle haben eigentlich ziemlich selbsterklärende Elemente.
+Sobald ein Einstellungspunkt verändert wurde, wird dieser auch im dconf-editor sichtbar.
+Das [Dconf](https://en.wikipedia.org/wiki/Dconf)-Schema von EasyScreenCast
+trägt die Bezeichnung `org.gnome.shell.extensions.EasyScreenCast`.
+Die Schlüssel können mit dem grafischen Tool dconf-editor und dem Kommando gsettings modifiziert werden.
+Die gleichen [Vorgehensweisen](gnome_shell_recorder.md#gnome_shell_recorder_einstellungen),
+wie beim Gnome Shell Recorder, geleiten Sie zum gewünschten Ergebnis.
 
+![EasyScreenCast - dconf-editor](../../images/easyscreencast_dconf-editor.png)    
+***Abbildung:*** EasyScreenCast - dconf-editor
 
-#### Anwendung
+#### Anwendung {#easyscreencast_anwendung}
