@@ -107,7 +107,7 @@ und dem Kommando dconf modifiziert werden.
 ***Abbildung:*** EasyScreenCast - dconf-editor
 
 <style>
-    .anmerkung { background: #FFFACD; padding-top: 5px; padding-bottom: 5px; padding-right: 15px; padding-left: 15px;}
+    .anmerkung { background: #ffffe0; padding-top: 10px; padding-bottom: 10px; padding-right: 20px; padding-left: 20px;}
 </style>
 
 <p class="anmerkung">
