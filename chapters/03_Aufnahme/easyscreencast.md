@@ -44,7 +44,7 @@ Für die Inbetriebnahme der funktionsreichen Screencast-Erweiterung müssen Sie 
 und anschließend die Frage: "EasyScreenCast" von extensions.gnome.org herunterladen und installieren ? mit Installieren
 beantworten.
 
-![EasyScreenCast - Installation](../../images/easyscreencast_install.png)    
+![EasyScreenCast - Installation](../../images/easyscreencast_installation.png)    
 ***Abbildung:*** EasyScreenCast - Installation
 
 Das Verzeichnis von EasyScreenCast, mit allen dazugehörigen Dateien, befindet sich nach der Installation

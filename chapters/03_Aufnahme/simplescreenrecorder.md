@@ -1,6 +1,6 @@
 ### SimpleScreenRecorder {#SimpleScreenRecorder}
 
-![SimpleScreenRecorder](../../images/simplescreenrecorder.png)    
+![SimpleScreenRecorder](../../images/simplescreenrecorder_klein.png)    
 ***Abbildung:*** SimpleScreenRecorder
 
 Der [SimpleScreenRecorder](http://www.maartenbaert.be/simplescreenrecorder/)
