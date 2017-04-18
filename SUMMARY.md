@@ -23,7 +23,7 @@
         * [Peek](chapters/03_Aufnahme/peek.md)
     * [Programme mit Screencast-Funktion](chapters/03_Aufnahme/programme_mit_screencast-funktion.md)
         * [VLC](chapters/03_Aufnahme/programme_mit_screencast-funktion.md)
-        * [VirutalBox](chapters/03_Aufnahme/virtualbox.md)
+        * [VirtualBox](chapters/03_Aufnahme/virtualbox.md)
         * [ffmpeg]((chapters/03_Aufnahme/ffmpeg.md)
     * [Hilftools](chapters/03_Aufnahme/hilftools.md)
 
