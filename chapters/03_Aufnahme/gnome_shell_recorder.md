@@ -3,6 +3,7 @@
 Seit jeher gehört die Screenshot-Funktionalität (Bildschirmfotos erstellen) zur Grundausstattung von Gnome.
 Mit Gnome3 hielt ein weiteres Feature, die Screencast-Funktion (Bildschirmvideoaufnahme),
 Einzug in die Ausstattungspalette der grafischen Benutzeroberfläche. 
+
 Der Gnome Shell Recorder streicht somit die Notwendigkeit ein zusätzliches Screencast-Tool zu installieren,
 um Bildschirmaktivitäten in einem Video festzuhalten. Leider gilt dies nicht für alle Situationen,
 denn der Gnome Shell Recorder nimmt nur den ganzen Bildschirm auf, und das ohne Ton.
@@ -50,8 +51,17 @@ Hier können Sie nun einen eigenen Wert bestimmen.
 
 Die Tastenkombination `Strg+Alt+Shift+R` für den Gnome Shell Recorder ist unter 
 `org.gnome.settings-daemon.plugins.media-keys screencast` zugänglich.
+
+<style>
+    .anmerkung { background: #F0FFF0; padding-top: 10px; padding-bottom: 10px; padding-right: 20px; padding-left: 20px;}
+</style>
+
+<p class="anmerkung">
+<b>Hinweis:</b><br />
+
 Wenn Sie eine neue Tastenkomination einstellen möchten, bitte vergessen Sie nicht vorher gründlich zu recherchieren,
 ob Ihre Wahl schon irgendwo im Einsatz ist.
+</p>
 
 ![dconf-editor - Screencast-Tastenkombination](../../images/dconf-editor_screencast.png)    
 ***Abbildung:*** dconf-editor - Screencast-Tastenkombination
