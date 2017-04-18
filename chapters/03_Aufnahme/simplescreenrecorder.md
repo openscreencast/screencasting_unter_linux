@@ -1,4 +1,4 @@
-### SimpleScreenRecorder
+### SimpleScreenRecorder {#SimpleScreenRecorder}
 
 ![SimpleScreenRecorder](../../images/simplescreenrecorder.png)    
 ***Abbildung:*** SimpleScreenRecorder
@@ -16,7 +16,13 @@ Die Applikation wird von [Maarten Baert](https://github.com/MaartenBaert)
 entwickelt. Die Quelldateien sind in einem [git-Repository](https://github.com/MaartenBaert/ssr)
 bei dem Online-Dienst GitHub abrufbar.
 
-#### Installation
+#### Installation {#SimpleScreenRecorder_Installation}
+
+Auf der Webseite vom [SimpleScreenRecorder](http://www.maartenbaert.be/simplescreenrecorder/)
+stehen Installationhinweise für diverse Linux-Distributionen.
+In manchen Linux-Betriebssystemen ist der SimpleScreenRecorder
+in den offiziellen Repositories vorhanden und kann mit dem jeweiligen Paketmanager installiert werden.
+Bei einigen anderen muss vor der Installation noch ein weiteres Repository hinzugefügt werden.
 
 ##### Installation unter Fedora {#SimpleScreenRecorder_Installation_Fedora}
 
@@ -33,5 +39,13 @@ sudo apt-get update
 sudo apt-get install simplescreenrecorder
 ```
 
-#### Anwendung
+##### Installation unter Arch Linux {#SimpleScreenRecorder_Installation_ArchLinux}
+
+Sie können den [AUR-Helper](https://wiki.archlinux.org/index.php/AUR_helpers) Ihrer Wahl nutzen.
+
+```
+pacaur -S simplescreenrecorder
+```
+
+#### Anwendung {#SimpleScreenRecorder_Anwendung}
 
