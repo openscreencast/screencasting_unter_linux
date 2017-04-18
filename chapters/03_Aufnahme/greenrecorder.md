@@ -41,8 +41,8 @@ Unmittelbar nach dem Start wird eine kleine, einfache Oberfläche präsentiert.
 Wo, in welchem Format und was aufgenommen wird kann ohne Umwege eingestellt werden.
 Den Startschuss für die Aufnahme können Sie über den Button Aufnahme/Record, oben links im Fenster, geben.
 
-![Green Recorder - Stop Recording - Linux Mint - Cinnamon](../../images/greenrecorder_aufnahme.png)    
-***Abbildung:*** Green Recorder - Aufnahme stoppen (Linux Mint - Cinnamon)
+![Green Recorder - Aufnahme](../../images/greenrecorder_aufnahme.png)    
+***Abbildung:*** Green Recorder - Aufnahme (Fedora - Gnome)
 
 Ein roter Kreis signalisiert, dass die Aufnahme läuft.
 Beendet ist die Aufnahme wenn Sie auf das Icon des Green Recorders klicken und anschließend auf "Stop Recording".
@@ -57,6 +57,7 @@ Unter Fedora (Gnome) wird das Icon unten links im Bildschirm eingebunden.
 
 Sofern an den Einstellungen nichts verändert wurde, landet das aufgenommene Video im Verzeichnis `~/Videos/`.
 Der Dateiname (Beispiel: `2017-04-18 11:51:45.935998.webm`) beinhaltet Datum und Zeit.
+
 Genutzt werden python, [Gtk+3](https://de.wikipedia.org/wiki/GTK%2B) und [ffmpeg](https://de.wikipedia.org/wiki/FFmpeg). 
 Momentan werden die Formate [mkv](https://de.wikipedia.org/wiki/Matroska),
 [avi](https://de.wikipedia.org/wiki/Audio_Video_Interleave), [mp4](https://de.wikipedia.org/wiki/MP4),
