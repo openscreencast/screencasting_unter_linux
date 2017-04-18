@@ -45,7 +45,6 @@ Im Jahre 2010 wurde der Artikel ["Abgedreht"](http://www.linux-magazin.de/Ausgab
 von Julia Klein im [Linux-Magazin](http://www.linux-magazin.de/) 08/2010 veröffentlicht.
 Die Programme RecordMyDesktop, Record It Now, Xvidcap und VLC fanden in diesem Text Erwähnung. 
 
-Artikel über Screencast-Tools im [Linux-Magazin](http://www.linux-magazin.de/):
 
 | Linux-Magazin | Artikel                | Autor          | Screencast-Programme                                           |
 |---------------|------------------------|----------------|----------------------------------------------------------------|
@@ -53,5 +52,5 @@ Artikel über Screencast-Tools im [Linux-Magazin](http://www.linux-magazin.de/):
 | 11/2008       | [Ordentlich in Bewegung](http://www.linux-magazin.de/Ausgaben/2008/11/Ordentlich-in-Bewegung) | Peter Kreußel  | Xvidcap, Recordmydesktop, Istanbul, Byzanz, Screenkast, Wink   |
 | 08/2010       | [Abgedreht](http://www.linux-magazin.de/Ausgaben/2010/08/Abgedreht)              | Julia Klein    | Record My Desktop, Record It Now, Xvidcap, VLC                 |
 | 11/2016       | [Und - Action!](http://www.linux-magazin.de/Ausgaben/2016/11/Bitparade)          | Erik Bärwaldt  | Kazam, RecordMyDesktop, SimpleScreenRecorder, vokoscreen, Krut |
-
+***Tabelle:*** Artikel über Screencast-Tools im [Linux-Magazin](http://www.linux-magazin.de/)
 
