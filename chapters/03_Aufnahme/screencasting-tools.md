@@ -23,19 +23,15 @@ Listen mit Screencasting-Tools:
 * [es:WP - Vergleichsliste mit Screencasting-Software](https://es.wikipedia.org/wiki/Comparaci%C3%B3n_de_programas_de_screencast)
 * [Screencasting-Tools](https://github.com/openscreencast/openscreencast_material/blob/master/tools.md)
 
-<style>
-    .anmerkung { background: #F0FFF0; padding-top: 10px; padding-bottom: 10px; padding-right: 20px; padding-left: 20px;}
-</style>
+Im [Linux-Magazin](http://www.linux-magazin.de/) wurde über die Jahre das Thema Screencasting-Tools
+immer mal wieder aufgegriffen. Einige Artikel stellten diverse Screen-Recorder vor.
 
-<p class="anmerkung">
-<b>Hinweis:</b><br />
-
-Im [Linux-Magazin](http://www.linux-magazin.de/) 11/2016 gibt es einen Beitrag über Screencast-Tools.
-In der Kategorie Software - Bitparade schreibt Erik Bärwaldt
+Zuletzt gab es einen Beitrag über Screencast-Tools im [Linux-Magazin](http://www.linux-magazin.de/) 11/2016.
+In der Kategorie Software - Bitparade schrieb Erik Bärwaldt
 in dem Artikel ["Und - Action!"](http://www.linux-magazin.de/Ausgaben/2016/11/Bitparade)
 über Programme fürs Screencasting. Die 5 Screencasting-Tools Kazam, Record My Desktop,
-Simple Screen Recorder, Vokoscreen und Krut werden unter die Lupe genommen.
-Sie werden im Funktionsumfang, in der Desktop-Integration, im Bedienkonzept und in der Praxis miteinander verglichen.
+Simple Screen Recorder, Vokoscreen und Krut wurden unter die Lupe genommen.
+Sie wurden im Funktionsumfang, in der Desktop-Integration, im Bedienkonzept und in der Praxis miteinander verglichen.
 
 Auch schon im [Linux-Magazin](http://www.linux-magazin.de/) 07/2006 schrieb
 Oliver Frommel über [Desktop-Recorder](http://www.linux-magazin.de/Ausgaben/2006/07/Desktop-Recorder).
@@ -49,20 +45,11 @@ Im Jahre 2010 wurde der Artikel ["Abgedreht"](http://www.linux-magazin.de/Ausgab
 von Julia Klein im [Linux-Magazin](http://www.linux-magazin.de/) 08/2010 veröffentlicht.
 Die Programme Record My Desktop, Record It Now, Xvidcap und VLC fanden in diesem Text Erwähnung. 
 
-| Linux-Magazin | Artikel                | Autor          | Screencast-Programme                                           |
+| [Linux-Magazin](http://www.linux-magazin.de/) | Artikel                | Autor          | Screencast-Programme                                           |
 |---------------|------------------------|----------------|----------------------------------------------------------------|
-| 07/2006       | Desktop-Recorder       | Oliver Frommel | Istanbul, Byzanz, VNC2SWF, Xvidcap, Wink                       |
-| 11/2008       | Ordentlich in Bewegung | Peter Kreußel  | Xvidcap, Recordmydesktop, Istanbul, Byzanz, Screenkast, Wink   |
-| 08/2010       | Abgedreht              | Julia Klein    | Record My Desktop, Record It Now, Xvidcap, VLC                 |
-| 11/2016       | Und - Action!          | Erik Bärwaldt  | Kazam, RecordMyDesktop, SimpleScreenRecorder, vokoscreen, Krut |
-
-</p>
-
-| Linux-Magazin | Artikel                | Autor          | Screencast-Programme                                           |
-|---------------|------------------------|----------------|----------------------------------------------------------------|
-| 07/2006       | Desktop-Recorder       | Oliver Frommel | Istanbul, Byzanz, VNC2SWF, Xvidcap, Wink                       |
-| 11/2008       | Ordentlich in Bewegung | Peter Kreußel  | Xvidcap, Recordmydesktop, Istanbul, Byzanz, Screenkast, Wink   |
-| 08/2010       | Abgedreht              | Julia Klein    | Record My Desktop, Record It Now, Xvidcap, VLC                 |
-| 11/2016       | Und - Action!          | Erik Bärwaldt  | Kazam, RecordMyDesktop, SimpleScreenRecorder, vokoscreen, Krut |
+| 07/2006       | [Desktop-Recorder](http://www.linux-magazin.de/Ausgaben/2006/07/Desktop-Recorder)       | Oliver Frommel | Istanbul, Byzanz, VNC2SWF, Xvidcap, Wink                       |
+| 11/2008       | ["Ordentlich in Bewegung"](http://www.linux-magazin.de/Ausgaben/2008/11/Ordentlich-in-Bewegung) | Peter Kreußel  | Xvidcap, Recordmydesktop, Istanbul, Byzanz, Screenkast, Wink   |
+| 08/2010       | ["Abgedreht"](http://www.linux-magazin.de/Ausgaben/2010/08/Abgedreht)              | Julia Klein    | Record My Desktop, Record It Now, Xvidcap, VLC                 |
+| 11/2016       | ["Und - Action!"](http://www.linux-magazin.de/Ausgaben/2016/11/Bitparade)          | Erik Bärwaldt  | Kazam, RecordMyDesktop, SimpleScreenRecorder, vokoscreen, Krut |
 
 
