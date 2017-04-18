@@ -1,5 +1,8 @@
 ### SimpleScreenRecorder
 
+![SimpleScreenRecorder](../../images/simplescreenrecorder.png)    
+***Abbildung:*** SimpleScreenRecorder
+
 Der [SimpleScreenRecorder](http://www.maartenbaert.be/simplescreenrecorder/)
 ist für mich seit langem das Screencast-Tool der ersten Wahl.
 Es verfügt über zahlreiche Ausstattungsmerkmale. Alle üblichen
