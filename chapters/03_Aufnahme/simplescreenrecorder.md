@@ -49,4 +49,22 @@ pacaur -S simplescreenrecorder
 
 #### Anwendung {#SimpleScreenRecorder_Anwendung}
 
+![SimpleScreenRecorder - Willkommen](../../images/simplescreenrecorder_willkommen.png)    
+***Abbildung:*** SimpleScreenRecorder - Willkommen
+
+![SimpleScreenRecorder - Quellen](../../images/simplescreenrecorder_quellen.png)    
+***Abbildung:*** SimpleScreenRecorder - Quellen
+
+![SimpleScreenRecorder - Datei](../../images/simplescreenrecorder_datei.png)    
+***Abbildung:*** SimpleScreenRecorder - Datei
+
+![SimpleScreenRecorder - Aufnehmen](../../images/simplescreenrecorder_aufnehmen.png)    
+***Abbildung:*** SimpleScreenRecorder - Aufnehmen
+
+![SimpleScreenRecorder - Aufnahme](../../images/simplescreenrecorder_aufnahme.png)    
+***Abbildung:*** SimpleScreenRecorder - Aufnahme
+
+![SimpleScreenRecorder - Ende](../../images/simplescreenrecorder_ende.png)    
+***Abbildung:*** SimpleScreenRecorder - Ende
+
 
