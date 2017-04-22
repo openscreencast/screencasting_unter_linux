@@ -1,6 +1,6 @@
 ### SimpleScreenRecorder {#SimpleScreenRecorder}
 
-![SimpleScreenRecorder](../../images/simplescreenrecorder_quellen.png)    
+![SimpleScreenRecorder](../../images/simplescreenrecorder_willkommen.png)    
 ***Abbildung:*** SimpleScreenRecorder
 
 Der [SimpleScreenRecorder](http://www.maartenbaert.be/simplescreenrecorder/)
@@ -26,12 +26,19 @@ Bei einigen anderen muss vor der Installation noch ein weiteres Repository hinzu
 
 ##### Installation unter Fedora {#SimpleScreenRecorder_Installation_Fedora}
 
+Unter Fedora steckt der SimpleScreenRecorder im RPM Fusion-Repository.
+Nach der Aktivierung des Software-Archivs kann das Paket für den SimpleScreenRecorder
+mit einem Paketmanager oder dem Kommandozeilentool dnf installiert werden.
+
 ```
 su -c "rpm -Uvh http://download1.rpmfusion.org/free/fedora/rpmfusion-free-release-stable.noarch.rpm"
 su -c "dnf install simplescreenrecorder"
 ```
 
 ##### Installation unter Ubuntu und Linux Mint {#SimpleScreenRecorder_Installation_Ubuntu_LinuxMint}
+
+Zuerst wird die Liste der Personal Package Archives um das SimpleScreenRecorder-PPA erweitert.
+Daraufhin kann das Screencast-Tool anhand des vertrauten Prozedere installiert werden. 
 
 ```
 sudo add-apt-repository ppa:maarten-baert/simplescreenrecorder
@@ -41,7 +48,8 @@ sudo apt-get install simplescreenrecorder
 
 ##### Installation unter Arch Linux {#SimpleScreenRecorder_Installation_ArchLinux}
 
-Sie können den [AUR-Helper](https://wiki.archlinux.org/index.php/AUR_helpers) Ihrer Wahl nutzen.
+Unter Arch Linux können Sie für die Installation den
+[AUR-Helper](https://wiki.archlinux.org/index.php/AUR_helpers) Ihrer Wahl nutzen.
 
 ```
 pacaur -S simplescreenrecorder
