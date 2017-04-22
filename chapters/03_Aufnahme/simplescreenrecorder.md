@@ -1,6 +1,6 @@
 ### SimpleScreenRecorder {#SimpleScreenRecorder}
 
-![SimpleScreenRecorder](../../images/simplescreenrecorder_willkommen.png)    
+![SimpleScreenRecorder](../../images/simplescreenrecorder_quellen.png)    
 ***Abbildung:*** SimpleScreenRecorder
 
 Der [SimpleScreenRecorder](http://www.maartenbaert.be/simplescreenrecorder/)
@@ -49,11 +49,22 @@ pacaur -S simplescreenrecorder
 
 #### Anwendung {#SimpleScreenRecorder_Anwendung}
 
-![SimpleScreenRecorder - Willkommen](../../images/simplescreenrecorder_willkommen.png)    
+![SimpleScreenRecorder -  Willkommen](../../images/simplescreenrecorder_willkommen.png)    
 ***Abbildung:*** SimpleScreenRecorder - Willkommen
+
+Der Eintrag "SimpleScreenRecorder" im Multimedia-Menü ist quasi der Startknopf für
+die Applikation. Die Anwendung kann auch mit dem Kommando `simplescreenrecorder` gestartet werden.
+"Willkommen zu SimpleScreenRecorder!" heißt es in der Begrüßung. 
+Nach ein paar Anwendungstipps folgt ein Link zur Webseite von SimpleScreenRecorder
+und ein Button mit der Beschriftung "Über SimpleScreenRecorder",
+der zur [GNU General Public License](https://de.wikipedia.org/wiki/GNU_General_Public_License) führt.
+Mit einem Klick auf den Button "Weiter" beginnt der Einstellungsdialog, der sich
+aus zwei Fenstern zusammensetzt.
 
 ![SimpleScreenRecorder - Quellen](../../images/simplescreenrecorder_quellen.png)    
 ***Abbildung:*** SimpleScreenRecorder - Quellen
+
+Im ersten Fenster des Einstellungsdialogs können Profil, Video Eingang und Audio Eingang festgelegt werden.
 
 ![SimpleScreenRecorder - Datei](../../images/simplescreenrecorder_datei.png)    
 ***Abbildung:*** SimpleScreenRecorder - Datei
