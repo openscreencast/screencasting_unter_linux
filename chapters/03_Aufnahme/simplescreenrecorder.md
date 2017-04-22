@@ -1,6 +1,6 @@
 ### SimpleScreenRecorder {#SimpleScreenRecorder}
 
-![SimpleScreenRecorder](../../images/simplescreenrecorder_klein.png)    
+![SimpleScreenRecorder](../../images/simplescreenrecorder_willkommen.png)    
 ***Abbildung:*** SimpleScreenRecorder
 
 Der [SimpleScreenRecorder](http://www.maartenbaert.be/simplescreenrecorder/)
@@ -48,4 +48,5 @@ pacaur -S simplescreenrecorder
 ```
 
 #### Anwendung {#SimpleScreenRecorder_Anwendung}
+
 
