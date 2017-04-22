@@ -25,7 +25,7 @@
         * [VLC](chapters/03_Aufnahme/vlc.md)
         * [VirtualBox](chapters/03_Aufnahme/virtualbox.md)
         * [ffmpeg](chapters/03_Aufnahme/ffmpeg.md)
-        * [ffmpeg](chapters/03_Aufnahme/avconv.md)
+        * [avconv](chapters/03_Aufnahme/avconv.md)
     * [Hilftools](chapters/03_Aufnahme/hilftools.md)
 
 ----
