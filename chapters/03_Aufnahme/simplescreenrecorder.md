@@ -85,9 +85,20 @@ mit aufgenommen wird eingestellt werden. PulseAudio, ALSA und Jack
 sind die bestimmbaren Audio-Systeme. Gleich darunter ist die Audio-Quelle wählbar.
 Selbstverständlich können Sie auch festlegen, ob eine Tonspur Bestandteil der Bildschirmaufnahme ist oder nicht.
 Die Einstellungen können ganz oben im Fenster durch ein Profil neu angelegt, gespeichert und gelöscht werden.
+Haben Sie die Quellen für die Aufnahme erst einmal ausgewählt, 
+erlangen Sie über den Button "Weiter" Zugang zum zweiten Abschnitt des Einstellungsdialogs.
 
 ![SimpleScreenRecorder - Datei](../../images/simplescreenrecorder_datei.png)    
 ***Abbildung:*** SimpleScreenRecorder - Datei
+
+Während im ersten Teil eher die Frage: Was wird aufnommen ? Gegenstand der Einstellungen ist,
+wird im zweiten Teil beantwortet, wo und wie die Aufnahme gespeichert wird. 
+Profil, Datei, Video und Audio sind die Segmente im zweiten Einstellungsfenster.
+Genauso wie im ersten Teil der Konfiguration können die Einstellungen in einem Profil gesichert werden.
+Sie können sich vor dem Start der Aufnahme einen Namen für das Video überlegen und 
+im Feld "Speichern als:" eintragen. Die Container Matroska (MKV), MP4, WebM, OGG und andere stehen zur Auswahl.
+Des Weiteren können Video-Codec und Audio-Codec für das Video festgelegt werden.
+Je nach Video- und Audio-Codec variieren die Einstellungsmöglichkeiten dazu.
 
 ![SimpleScreenRecorder - Aufnehmen](../../images/simplescreenrecorder_aufnehmen.png)    
 ***Abbildung:*** SimpleScreenRecorder - Aufnehmen
