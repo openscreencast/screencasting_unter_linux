@@ -73,6 +73,18 @@ aus zwei Fenstern zusammensetzt.
 ***Abbildung:*** SimpleScreenRecorder - Quellen
 
 Im ersten Fenster des Einstellungsdialogs können Profil, Video Eingang und Audio Eingang festgelegt werden.
+Als Video Eingang stehen die vier Punkte
+
+* Vollständigen Bildschirm aufnehmen
+* Ein festes Rechteck aufnehmen
+* Dem Mauszeiger folgen
+* OpenGL Aufnahme (experimentell)
+
+zur Verfügung. Weiterhin kann die Bild-Rate, die Skalierung des Videos und ob der Mauszeiger
+mit aufgenommen wird eingestellt werden. PulseAudio, ALSA und Jack
+sind die bestimmbaren Audio-Systeme. Gleich darunter ist die Audio-Quelle wählbar.
+Selbstverständlich können Sie auch festlegen, ob eine Tonspur Bestandteil der Bildschirmaufnahme ist oder nicht.
+Die Einstellungen können ganz oben im Fenster durch ein Profil neu angelegt, gespeichert und gelöscht werden.
 
 ![SimpleScreenRecorder - Datei](../../images/simplescreenrecorder_datei.png)    
 ***Abbildung:*** SimpleScreenRecorder - Datei
