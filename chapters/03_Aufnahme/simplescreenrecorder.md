@@ -61,8 +61,7 @@ pacaur -S simplescreenrecorder
 ***Abbildung:*** SimpleScreenRecorder - Willkommen
 
 Der Eintrag "SimpleScreenRecorder" im Multimedia-Menü ist quasi der Startknopf für
-die Applikation. Die Anwendung kann auch mit dem Kommando `simplescreenrecorder` gestartet werden.
-"Willkommen zu SimpleScreenRecorder!" heißt es in der Begrüßung. 
+die Applikation. "Willkommen zu SimpleScreenRecorder!" heißt es in der Begrüßung. 
 Nach ein paar Anwendungstipps folgt ein Link zur Webseite von SimpleScreenRecorder
 und ein Button mit der Beschriftung "Über SimpleScreenRecorder",
 der zur [GNU General Public License](https://de.wikipedia.org/wiki/GNU_General_Public_License) führt.
@@ -144,9 +143,15 @@ Nach dem Speichern der Aufnahme navigiert Sie ein passender Button zurück zum S
 
 ##### Anwendung in der Kommandozeile {#SimpleScreenRecorder_Terminal}
 
+Die Anwendung kann auch mit dem Kommando `simplescreenrecorder` gestartet werden. 
+Alle Optionen für die Kommandozeile listet die, für die Hilfe übliche, Ergänzung --help auf.
+
+```
+simplescreenrecorder --help
+```
+
 ![SimpleScreenRecorder - Terminal](../../images/simplescreenrecorder_terminal.png)    
 ***Abbildung:*** SimpleScreenRecorder - Terminal
-
 
 #### Einstellungen {#SimpleScreenRecorder_Einstellungen}
 
