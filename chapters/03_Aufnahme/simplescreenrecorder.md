@@ -128,6 +128,11 @@ in einem Log festgehalten. Folgende Informationen werden während der Aufnahme a
 Die Aktionen "Aufnahme abbrechen" und "Aufnahme speichern" stehen unter dem Logging zur Verfügung.
 Rechts neben den Aufnahme-Informationen ist eine Vorschau integriert.
 
+![SimpleScreenRecorder - Linux Mint - Taskleiste - Aufnahme](../../images/simplescreenrecorder_taskleiste_aufnahme.png)    
+***Abbildung:*** SimpleScreenRecorder - Linux Mint - Taskleiste - Aufnahme
+
+![SimpleScreenRecorder - Fedora - Menü - Aufnahme](../../images/simplescreenrecorder_menu_aufnahme.png)    
+***Abbildung:*** simplescreenrecorder --start-hidden - Fedora - Menü - Aufnahme
 
 ![SimpleScreenRecorder - Ende](../../images/simplescreenrecorder_ende.png)    
 ***Abbildung:*** SimpleScreenRecorder - Ende
