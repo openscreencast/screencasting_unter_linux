@@ -31,6 +31,8 @@
 ----
 
 * Nach der Aufnahme
+    * Videobearbeitung
+    * Untertitel
 
 ----
 

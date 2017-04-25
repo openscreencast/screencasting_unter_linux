@@ -103,10 +103,35 @@ Je nach Video- und Audio-Codec variieren die Einstellungsmöglichkeiten dazu.
 ![SimpleScreenRecorder - Aufnehmen](../../images/simplescreenrecorder_aufnehmen.png)    
 ***Abbildung:*** SimpleScreenRecorder - Aufnehmen
 
+Nach dem Einstellungsdialog folgt das Fenster für Aufnahme. 
+Das Abfilmen des Geschehens auf dem Bildschirm kann mit dem Button "Aufnahme starten" initiiert werden.
+Die Tastenkombination Strg+R bewirkt ebenfalls die Screencastaktion. 
+Diese Tastenkombination kann mit der Option "Aufnahme-Hotkey aktivieren" ein- und ausgeschaltet werden
+und ist veränderbar. 
+
 ![SimpleScreenRecorder - Aufnahme](../../images/simplescreenrecorder_aufnahme.png)    
 ***Abbildung:*** SimpleScreenRecorder - Aufnahme
 
+Nach dem Aufnahmestart wird die, mit dem obersten Button, verknüpfte Funktion "Aufnahme starten"
+durch die Handlung "Aufnahme pausieren" ersetzt. Unten im Fenster werden die vollzogenen Schritte
+in einem Log festgehalten. Folgende Informationen werden während der Aufnahme angezeigt:
+
+* Gesamt Zeit
+* FPS ein
+* FPS aus
+* Größe ein
+* Größe aus
+* Datei-Name
+* Datei-Größe
+* Bit-Rate
+
+Die Aktionen "Aufnahme abbrechen" und "Aufnahme speichern" stehen unter dem Logging zur Verfügung.
+Rechts neben den Aufnahme-Informationen ist eine Vorschau integriert.
+
+
 ![SimpleScreenRecorder - Ende](../../images/simplescreenrecorder_ende.png)    
 ***Abbildung:*** SimpleScreenRecorder - Ende
+
+#### Einstellungen
 
 
