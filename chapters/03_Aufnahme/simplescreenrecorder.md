@@ -150,4 +150,7 @@ Nach dem Speichern der Aufnahme navigiert Sie ein passender Button zurück zum S
 
 #### Einstellungen {#SimpleScreenRecorder_Einstellungen}
 
+![SimpleScreenRecorder - Einstellungen - Dateien](../../images/simplescreenrecorder_ssr_dateien.png)    
+***Abbildung:*** SimpleScreenRecorder - Einstellungen - Dateien
+
 
