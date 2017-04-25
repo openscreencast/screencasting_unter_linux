@@ -5,6 +5,7 @@
 * [Einleitung](chapters/01_Einleitung/einleitung.md)
     * [Was ist Screencasting ?](chapters/01_Einleitung/was_ist_screencasting.md)
     * [Warum Screencasts ?](chapters/01_Einleitung/warum_screencasts.md)
+    * [Screencast-Genres](chapters/01_Einleitung/screencast_genres.md)
     * [Beispiele](chapters/01_Einleitung/beispiele.md)
 
 ----
