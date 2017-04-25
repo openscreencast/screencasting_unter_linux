@@ -134,9 +134,20 @@ Rechts neben den Aufnahme-Informationen ist eine Vorschau integriert.
 ![SimpleScreenRecorder - Fedora - Menü - Aufnahme](../../images/simplescreenrecorder_menu_aufnahme.png)    
 ***Abbildung:*** simplescreenrecorder --start-hidden - Fedora - Menü - Aufnahme
 
+Ein roter Kreis in der Taskleiste weist auf die laufende Aufzeichnung der Bildschirmaktivitäten hin.
+Mit einem Klick der rechten Maustaste auf das Aufnahme-Icon vom SimpleScreenRecorder
+öffnet sich ein Kontextmenü, das hauptsächlich Funktionen (Pausieren, Abbrechen, Speichern) der Aufnahme berührt.
+Nach dem Speichern der Aufnahme navigiert Sie ein passender Button zurück zum Start-Bildschirm.
+
 ![SimpleScreenRecorder - Ende](../../images/simplescreenrecorder_ende.png)    
 ***Abbildung:*** SimpleScreenRecorder - Ende
 
-#### Einstellungen
+##### Anwendung in der Kommandozeile {#SimpleScreenRecorder_Terminal}
+
+![SimpleScreenRecorder - Terminal](../../images/simplescreenrecorder_terminal.png)    
+***Abbildung:*** SimpleScreenRecorder - Terminal
+
+
+#### Einstellungen {#SimpleScreenRecorder_Einstellungen}
 
 
