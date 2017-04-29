@@ -158,4 +158,16 @@ simplescreenrecorder --help
 ![SimpleScreenRecorder - Einstellungen - Dateien](../../images/simplescreenrecorder_ssr_dateien.png)    
 ***Abbildung:*** SimpleScreenRecorder - Einstellungen - Dateien
 
+Für alle Dateien des SimpleScreenRecorders wurde während der Installationsroutine ein Ordner erstellt. 
+Der Ordner heißt .ssr (`~/.ssr`) und befindet sich im Home-Verzeichnis. 
+In der Datei `settings.conf` können die Standard-Einstellungen für die Anwendung festgelegt werden.
+Es gibt vier Bereiche:
+
+* [global] - globale Einstellungen
+* [input] - Werte für das erste Einstellungsfenster (Eingabe) der Anwendung
+* [output] - Werte für das zweite Einstellungsfenster (Ausgabe) vom SimpleScreenRecorder
+* [record] - Einstellungen für das Aufnahmefenster
+
+Im Unterverzeichnis `logs` werden die Loggingdateien gespeichert.
+Für die Eingabe- und Ausgabeprofile existieren die Verzeichnisse `input-profiles` und `output-profiles`.
 
