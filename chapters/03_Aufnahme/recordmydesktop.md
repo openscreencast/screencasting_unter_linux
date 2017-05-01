@@ -1,5 +1,8 @@
 ### recordMyDesktop {#recordMyDesktop}
 
+![RecordMyDesktop](../../images/recordmydesktop.png)    
+***Abbildung:*** RecordMyDesktop
+
 [RecordMyDesktop](http://recordmydesktop.sourceforge.net/about.php) ist 
 neben [Istanbul](https://wiki.gnome.org/Projects/Istanbul) und
 [xvidcap](http://xvidcap.sourceforge.net/) eines der ältesten Screencast-Tools unter Linux.
