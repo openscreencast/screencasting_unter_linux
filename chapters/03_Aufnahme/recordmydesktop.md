@@ -1,7 +1,7 @@
 ### recordMyDesktop {#recordMyDesktop}
 
-![RecordMyDesktop](../../images/recordmydesktop.png)    
-***Abbildung:*** RecordMyDesktop
+![recordMyDesktop](../../images/recordmydesktop.png)    
+***Abbildung:*** recordMyDesktop
 
 [RecordMyDesktop](http://recordmydesktop.sourceforge.net/about.php) ist 
 neben [Istanbul](https://wiki.gnome.org/Projects/Istanbul) und
@@ -26,8 +26,8 @@ heißt `recordmydesktop`. Die Pakete für die Frontends heißen `gtk-recordmydes
 
 ##### Installation unter Fedora {#recordMyDesktop_Installation_Fedora}
 
-![RecordMyDesktop](../../images/recordmydesktop_fedora_info.png)    
-***Abbildung:*** RecordMyDesktop - Fedora - dnf info
+![recordMyDesktop - Fedora - dnf info](../../images/recordmydesktop_fedora_info.png)    
+***Abbildung:*** recordMyDesktop - Fedora - dnf info
 
 Bei Fedora lauten die Befehle für Installation:
 
@@ -41,6 +41,9 @@ sudo dnf install recordmydesktop gtk-recordmydesktop qt-recordmydesktop
 
 In der Gnome3-Desktopumgebung kann das Programm `Software` verwendet werden.
 
+![gtk-recordMyDesktop - Fedora - Software](../../images/gtk-recordmydesktop_fedora_software.png)    
+***Abbildung:*** gtk-recordMyDesktop - Fedora - Software
+
 ##### Installation unter Linux Mint und Ubuntu {#recordMyDesktop_Installation_LinuxMint}
 
 Durch folgende Terminal-Eingaben wird recordMyDesktop der Multimedia-Sektion beigelegt:
@@ -52,8 +55,6 @@ sudo apt-get install qt-recordmydesktop
 # für alle drei Pakete auf einmal
 sudo apt-get install recordmydesktop gtk-recordmydesktop qt-recordmydesktop
 ```
-
-
 
 #### Anwendung {#recordMyDesktop_Anwendung}
 
