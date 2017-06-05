@@ -26,6 +26,9 @@ heißt `recordmydesktop`. Die Pakete für die Frontends heißen `gtk-recordmydes
 
 ##### Installation unter Fedora {#recordMyDesktop_Installation_Fedora}
 
+![RecordMyDesktop](../../images/recordmydesktop_fedora_info.png)    
+***Abbildung:*** RecordMyDesktop - Fedora - dnf info
+
 Bei Fedora lauten die Befehle für Installation:
 
 ```
@@ -49,6 +52,7 @@ sudo apt-get install qt-recordmydesktop
 # für alle drei Pakete auf einmal
 sudo apt-get install recordmydesktop gtk-recordmydesktop qt-recordmydesktop
 ```
+
 
 
 #### Anwendung {#recordMyDesktop_Anwendung}
