@@ -29,17 +29,26 @@ heißt `recordmydesktop`. Die Pakete für die Frontends heißen `gtk-recordmydes
 Bei Fedora lauten die Befehle für Installation:
 
 ```
-dnf install recordmydesktop
-dnf install gtk-recordmydesktop
-dnf install qt-recordmydesktop
+sudo dnf install recordmydesktop
+sudo dnf install gtk-recordmydesktop
+sudo dnf install qt-recordmydesktop
 # für alle drei Pakete auf einmal
-dnf install recordmydesktop gtk-recordmydesktop qt-recordmydesktop
+sudo dnf install recordmydesktop gtk-recordmydesktop qt-recordmydesktop
 ```
 
-In der Gnome3-Desktopumgebung kann das Programme Software verwendet werden.
+In der Gnome3-Desktopumgebung kann das Programm `Software` verwendet werden.
 
-##### Installation unter Fedora {#recordMyDesktop_Installation_LinuxMint}
+##### Installation unter Linux Mint und Ubuntu {#recordMyDesktop_Installation_LinuxMint}
 
+Durch folgende Terminal-Eingaben wird recordMyDesktop der Multimedia-Sektion beigelegt:
+
+```
+sudo apt-get install recordmydesktop
+sudo apt-get install gtk-recordmydesktop
+sudo apt-get install qt-recordmydesktop
+# für alle drei Pakete auf einmal
+sudo apt-get install recordmydesktop gtk-recordmydesktop qt-recordmydesktop
+```
 
 
 #### Anwendung {#recordMyDesktop_Anwendung}
