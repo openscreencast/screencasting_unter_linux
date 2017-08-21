@@ -11,7 +11,7 @@ Unerfreulicherweise habe ich keines der beiden Tools bei mir zum Laufen bekommen
 andere Methode zurückgreifen. Zu jener Zeit hatte ich 2 Computer. 
 Auf dem etwas neueren PC, den ich hauptsächlich genutzt habe, lief Linux. Windows XP war das Betriebssystem
 des zweiten, schon sehr alten Computers. 
-In beiden Rechnern steckte eine ELSA Victory Erazor (nVidia Riva128)-Grafikkarte.
+In beiden Rechnern steckte eine ELSA Erazor-Grafikkarte.
 Diese Grafikkarte besaß eine Schnittstelle für Videooutput und Videoinput.
 Ich nutzte diese Besonderheit um alte Videos zu digitalisieren.
 Also habe ich vom Linux-Rechner den Videooutput mit dem Videoinput des Windows-Rechners verbunden.
