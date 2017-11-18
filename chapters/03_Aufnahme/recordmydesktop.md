@@ -58,4 +58,25 @@ sudo apt-get install recordmydesktop gtk-recordmydesktop qt-recordmydesktop
 
 #### Anwendung {#recordMyDesktop_Anwendung}
 
+![gtk-recordMyDesktop - Linux Mint - Menu](../../images/recordmydesktop_linuxmint_menu.png)    
+***Abbildung:*** gtk-recordMyDesktop - Linux Mint - Menu
+
+Nach der erfolgreichen Installation kann recordMyDesktop im Menü oder
+durch den Befehl `gtk-recordmydesktop` gestartet werden.
+
+![gtk-recordMyDesktop - Version - Linux Mint](../../images/gtk-recordmydesktop_version_linuxmint.png)    
+![gtk-recordMyDesktop - Linux Mint](../../images/gtk-recordmydesktop_linuxmint.png)    
+***Abbildung:*** gtk-recordMyDesktop - Linux Mint
+
+Oben im Hauptfenster können die Audio- und Videoqualität geregelt werden.
+Der Button Erweitert führt zum Einstellungsfenster mit den Sektionen 
+Datei(en), Leistung, Audio und Misc.
+
+![gtk-recordMyDesktop - Einstellungen - Dateien](../../images/gtk-recordmydesktop_einstellungen_dateien.png)
+![gtk-recordMyDesktop - Einstellungen - Leistung](../../images/gtk-recordmydesktop_einstellungen_leistung.png)
+![gtk-recordMyDesktop - Einstellungen - Audio](../../images/gtk-recordmydesktop_einstellungen_audio.png)
+![gtk-recordMyDesktop - Einstellungen - Misc](../../images/gtk-recordmydesktop_einstellungen_misc.png)    
+***Abbildung:*** gtk-recordMyDesktop - Einstellungen
+
+
 ##### Anwendung in der Kommandozeile {#recordMyDesktop_Terminal}
